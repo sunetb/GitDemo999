@@ -9,4 +9,5 @@ public class Main {
     void test (){
 
     }
+    void hjælp (){}
 }
