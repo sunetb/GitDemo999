@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String hemmeligtOrd = "Sune";
+        String hemmeligtOrd = "k0kkenm0dding";
         String brugteBogstaver = "";
 
         String brugerensGæt = gæt();
