@@ -8,6 +8,7 @@ public class Main {
         String brugteBogstaver = "";
 
         String brugerensGæt = gæt();
+        //something else
 
         boolean findes = hemmeligtOrd.contains(brugerensGæt);
         int index = hemmeligtOrd.indexOf("k");
